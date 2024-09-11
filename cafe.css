@@ -39,7 +39,7 @@
     padding-right: 30px;
 
 }
-    @media all and(min-width:480px) and (max-width:768px) {
+    @ media all and(min-width:480px) and (max-width:768px) {
         .box{
             height: auto;
             width: auto;
